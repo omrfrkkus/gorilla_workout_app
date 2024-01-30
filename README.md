@@ -6,27 +6,4 @@ My app is now available on [Google Play](https://play.google.com/store/apps/deta
 
 ### Screenshots
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="mockup/pixel0.png" alt="App 1" width="200"/>
-    </td>
-    <td align="center">
-      <img src="mockup/pixel1.png" alt="App 2" width="200"/>
-    </td>
-    <td align="center">
-      <img src="mockup/pixel2.png" alt="App 3" width="200"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="mockup/pixel3.png" alt="App 4" width="200"/>
-    </td>
-    <td align="center">
-      <img src="mockup/pixel4.png" alt="App 5" width="200"/>
-    </td>
-    <td align="center">
-      <img src="mockup/pixel5.png" alt="App 6" width="200"/>
-    </td>
-  </tr>
-</table>
+![App 1](mockup/pixel0.png) ![App 2](mockup/pixel1.png) ![App 3](mockup/pixel2.png) ![App 4](mockup/pixel3.png) ![App 5](mockup/pixel4.png) ![App 6](mockup/pixel5.png)
