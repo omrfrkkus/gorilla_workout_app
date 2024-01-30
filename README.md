@@ -6,10 +6,10 @@ My app is now available on [Google Play](https://play.google.com/store/apps/deta
 
 ### Screenshots
 
-![App 1](images/mockup/pixel0.png)
-![App 2](images/mockup/pixel1.png)
-![App 3](images/mockup/pixel2.png)
-![App 4](images/mockup/pixel3.png)
-![App 5](images/mockup/pixel4.png)
-![App 6](images/mockup/pixel5.png)
+![App 1](mockup/pixel0.png)
+![App 2](mockup/pixel1.png)
+![App 3](mockup/pixel2.png)
+![App 4](mockup/pixel3.png)
+![App 5](mockup/pixel4.png)
+![App 6](mockup/pixel5.png)
 
